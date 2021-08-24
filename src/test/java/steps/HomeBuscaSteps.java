@@ -7,6 +7,8 @@ import cucumber.api.java.pt.Quando;
 import org.junit.Assert;
 import pages.HomePage;
 
+import java.util.concurrent.TimeUnit;
+
 public class HomeBuscaSteps {
     private HomePage home;
 
